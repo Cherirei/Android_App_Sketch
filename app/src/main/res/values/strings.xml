@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Love App</string>
+    <string name="title">THE DATING APP</string>
+    <string name="hint_username">Type Your username</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+</resources>
+
